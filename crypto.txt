@@ -1,0 +1,7 @@
+Bitcoin: 2935 
+Ether: 1119 
+Litecoin: 1950 
+NASDAQ100: 8005 
+Netﬂix: 4143 
+Gold: 8005 
+USD-GBP spot rate: 8005
